@@ -1,3 +1,5 @@
-# wc-app-template
+# PolyGen
 
-My boilerplate for 0 dependency web apps built on top of Web Components.
+https://somnid.github.io/PolyGen/index.html
+
+A simple SVG polygon generation tool.

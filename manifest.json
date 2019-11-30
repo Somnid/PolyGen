@@ -1,6 +1,6 @@
 {
-  "name": "Web App",
-  "short_name" :"App",
+  "name": "PolyGen",
+  "short_name" :"PolyGen",
   "icons": [
     {
       "src": "img/icon.svg",
